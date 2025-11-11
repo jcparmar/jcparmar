@@ -58,10 +58,10 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jcparmar&show_icons=true&locale=en" alt="jcparmar" /></p>
 
+<br><br><br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jcparmar&" alt="jcparmar" /></p>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/jcparmar/jcparmar/output/snake.svg" alt="Snake animation" />
 
 
